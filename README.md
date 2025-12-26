@@ -3,12 +3,7 @@
 ---
 
 ## 📊 GitHub 数据概览
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWater517&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWater517&layout=compact&hide_border=true" height="150"/>
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWater517)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
